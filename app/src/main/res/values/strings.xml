@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PSGteam</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="teams_name">Nama Team </string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="judul">Judul CLub</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
